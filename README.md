@@ -14,4 +14,4 @@ Welcome to **GeoGuessr MapHack**—the ultimate tool for enhancing your GeoGuess
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/geoguessr-maphack.git
+git clone https://github.com/SassyxD/geoguessr-cheat-master.git
